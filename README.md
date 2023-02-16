@@ -1,10 +1,10 @@
 ### Hi there 👋, Myself  Md Ruhul Amin
 #### Worked  as a Software Engineer at Bangladesh Ordnance Factories
-#### Currently Working as a Software Engineer at Business Automation Ltd.
+#### Currently Working as a Software Engineer at Business Automation Ltd. (GIS Developer)
 
-2 years of professional experience working with Laravel,PHP framework. Solved 300+ programming problems in C++.
+2 years of professional experience working with Node.js ,Laravel,PHP framework. Solved 300+ programming problems in C++.
 
-Skills: LARAVEL/JAVASCRIPT/PHP/REACT/C++
+Skills: Node.Js/LARAVEL/JAVASCRIPT/PHP/REACT/C++
 
 - 🔭 I’m currently working on ERP System 
 - 🌱 I’m currently learning Node JS,React
