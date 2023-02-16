@@ -1,6 +1,6 @@
 ### Hi there 👋, Myself  Md Ruhul Amin
-#### Currently  working as a Software Engineer at Bangladesh Ordnance Factories
-![Currently  working as a Software Engineer at Business Automation Ltd.]
+#### Worked  as a Software Engineer at Bangladesh Ordnance Factories
+#### Currently Working as a Software Engineer at Business Automation Ltd.
 
 2 years of professional experience working with Laravel,PHP framework. Solved 300+ programming problems in C++.
 
